@@ -1,0 +1,208 @@
+[
+  {
+    "id": "1",
+    "path": "/nav",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [
+          {
+            "id": "box-id--519531666",
+            "x": 0,
+            "y": 0,
+            "width": 2899,
+            "height": 64,
+            "xpath": "/html[1]/body[1]/header[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgb(148, 0, 211)",
+            "mapping": "header",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "path": "/index",
+    "sections": [
+      {
+        "id": "2-1",
+        "blocks": [
+          {
+            "id": "box-id-494745251",
+            "x": 0,
+            "y": 64,
+            "width": 2899,
+            "height": 364,
+            "xpath": "/html[1]/body[1]/main[1]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.4)",
+            "mapping": "hero",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-2",
+        "blocks": [
+          {
+            "id": "box-id--890884701",
+            "x": 849,
+            "y": 514,
+            "width": 1200,
+            "height": 354,
+            "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.3)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--890884670",
+            "x": 849,
+            "y": 892,
+            "width": 1200,
+            "height": 815,
+            "xpath": "/html[1]/body[1]/main[1]/div[2]/div[2]",
+            "layout": {
+              "numCols": 2,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[2]/div[2]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section columns-container\"]/div[@class=\"columns-wrapper\"]/div[@class=\"columns block columns-2-cols\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[2]/div[2]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section columns-container\"]/div[@class=\"columns-wrapper\"]/div[@class=\"columns block columns-2-cols\"]/div[@class=\"columns-img-col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[2]/div[2]/div[1]/div[2]/div[1]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section columns-container\"]/div[@class=\"columns-wrapper\"]/div[@class=\"columns block columns-2-cols\"]/div[@class=\"columns-img-col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[2]/div[2]/div[1]/div[2]/div[2]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section columns-container\"]/div[@class=\"columns-wrapper\"]/div[@class=\"columns block columns-2-cols\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.3)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-3",
+        "blocks": [
+          {
+            "id": "box-id-1596628132",
+            "x": 849,
+            "y": 1883,
+            "width": 1200,
+            "height": 119,
+            "xpath": "/html[1]/body[1]/main[1]/div[3]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.3)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id-1596628163",
+            "x": 849,
+            "y": 2024,
+            "width": 1200,
+            "height": 1687,
+            "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 3
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/div[1]/ul[1]/li[1]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section highlight cards-container\"]/div[@class=\"cards-wrapper\"]/div[@class=\"cards block\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/div[1]/ul[1]/li[2]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section highlight cards-container\"]/div[@class=\"cards-wrapper\"]/div[@class=\"cards block\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/div[1]/ul[1]/li[3]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section highlight cards-container\"]/div[@class=\"cards-wrapper\"]/div[@class=\"cards block\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/div[1]/ul[1]/li[4]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section highlight cards-container\"]/div[@class=\"cards-wrapper\"]/div[@class=\"cards block\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/div[1]/ul[1]/li[5]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section highlight cards-container\"]/div[@class=\"cards-wrapper\"]/div[@class=\"cards block\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/div[1]/ul[1]/li[6]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section highlight cards-container\"]/div[@class=\"cards-wrapper\"]/div[@class=\"cards block\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/div[1]/ul[1]/li[7]",
+                "xpathWithDetails": "/body[@class=\"appear\"]/div[@class=\"section highlight cards-container\"]/div[@class=\"cards-wrapper\"]/div[@class=\"cards block\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.3)",
+            "mapping": "cards",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-4",
+        "blocks": [],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "path": "/footer",
+    "sections": [
+      {
+        "id": "3-1",
+        "blocks": [
+          {
+            "id": "box-id--953139808",
+            "x": 0,
+            "y": 3904,
+            "width": 2899,
+            "height": 121,
+            "xpath": "/html[1]/body[1]/footer[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgb(0, 0, 255)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  }
+]
